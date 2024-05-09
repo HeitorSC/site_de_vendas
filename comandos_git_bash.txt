@@ -1,0 +1,274 @@
+    1  git --version
+    2  git
+    3  git log
+    4  ~git
+    5  show
+    6  exit
+    7  cd..
+    8  cd OneDrive/Udemy/Nelio_Spring/
+    9  git init
+   10  dir
+   11  git init
+   12  git init
+   13  git config --global user.mail "heitor.sousacruz@hotmail.com"
+   14  on branch master
+   15  git status
+   16  git add .
+   17  git status
+   18  git commit -m "Projeto criado"
+   19  git status
+   20  git log
+   21  git remote add origin https://github.com/HeitorSC/cursomc.git
+   22  git push -u origin master
+   23  git push -u origin main
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "Adicionado a calsse CategoriaResource"
+   28  git status
+   29  cls
+   30  clear
+   31  git status
+   32  git push
+   33  git status
+   34  echo "admin:1234" | base64
+   35  echo "admin:1234" | base64 > credenciais
+   36  $ echo "admin:1234" | base64 > credenciais
+   37  echo "admin:1234" | base64 > credenciais
+   38  echo "admin:1234" | base64 > credenciais.html
+   39  echo "admin:1234" | base64 > credenciais.json
+   40  echo "admin:1234" > credenciais.json
+   41  git status
+   42  git add .
+   43  git status
+   44  git commit -m "Criado Repository e Service para Categoria"
+   45  git status
+   46  git push
+   47  GIT STATUS
+   48  git status
+   49  git log
+   50  git log -p -2
+   51  git log nivelamento-sobre-jpa.pdf
+   52  git log diagrama.zip
+   53  git remote
+   54  git config --list
+   55  git status
+   56  git add .
+   57  git commit -m "Adicionado o .gitignore para ignorar html"
+   58  git push
+   59  git add .
+   60  git commit -m "Adicionado o .gitignore para ignorar html"
+   61  git push
+   62  git status
+   63  git add .
+   64  git status
+   65  git commit -m "Adicionado o .gitignore para ignorar html"
+   66  git push
+   67  git add .
+   68  git commit -m "ignorando .xlsx"
+   69  git push
+   70  git add .
+   71  git commit -m "ignorando .xlsx"
+   72  git push
+   73  git add .
+   74  git commit -m "Corrigindo o nome do arquivo gitignore"
+   75  git push
+   76  git add .
+   77  git commit -m "add .txt ao gitignore"
+   78  git push
+   79  git add .
+   80  git commit -m "criado arquivo .txt para testa o .gitignore"
+   81  git status
+   82  git status
+   83  git commit -m "alterado html para testar gitignore"
+   84  git status
+   85  git add .
+   86  git commit -m "alterado html par"
+   87  git push
+   88  git add .
+   89  git commit -m "adicionado html para testar gitignore"
+   90  git add .
+   91  git commit -m "adicionado html para testar gitignore"
+   92  git push
+   93  git --cached *.xlsx
+   94  git rm --cached *.xlsx
+   95  git status
+   96  git add .
+   97  git status
+   98  git commit -m "removido .xlsx para posterior ignore"
+   99  git push
+  100  cat .gitignore *.log
+  101  cat .gitignore
+  102  echo .log
+  103  echo .log >> .gitignore
+  104  git add .txt
+  105  git add *.txt
+  106  git add -f *.txt
+  107  git commit "usando o git add -f para força a adição de um arquivo ignorado"
+  108  git commit -m "usando o git add -f para força a adição de um arquivo ignorado"
+  109  git push
+  110  git rm --cached *.txt
+  111  git push
+  112  git add .
+  113  git commit
+  114  git commit -m "retirada dos .txt"
+  115  git push
+  116  git commit --amend
+  117  git push
+  118  git add
+  119  git add .
+  120  git push
+  121  git commit
+  122  git status
+  123  git push
+  124  git commit --amend
+  125  git push
+  126  git pull
+  127  git commit --amend
+  128  git commit --amend ""
+  129  git commit --amend "          "
+  130  git commit --amend "teste"
+  131  git log
+  132  git status
+  133  git push
+  134  git send-email heitor.sousacruz@gmail.com
+  135  git send-email --to heitor.sousacruz@gmail.com --subject "Assunto do e-mail" teste.txt
+  136  git send-email --to heitor.sousacruz@gmail.com --subject "Assunto do e-mail" novo.html
+  137  git send-email --to heitor.sousacruz@gmail.com --subject "diferenca" novo2.html
+  138  git send-email --to heitor.sousacruz@gmail.com novo2.html
+  139  git send-email --to heitor.sousacruz@gmail.com
+  140  git clone git@HeitorSC/cursomc
+  141  git clone git@cursomc
+  142  gh repo clone HeitorSC/cursomc~
+  143  git clone HeitorSC/cursomc~
+  144  git pull cursomc
+  145  cd..
+  146  cd ..
+  147  git pull cursomc
+  148  git branch
+  149  git-branch
+  150  git checkout
+  151  cd site_de_vendas/
+  152  git branch
+  153  git checkout 
+  154  git checkout teste
+  155  git checkout teste2
+  156  git checkout main
+  157  git checkout teste
+  158  git checkout Origin
+  159  git checkout main
+  160  git branch teste2
+  161  git push
+  162  git checkout teste2
+  163  git status
+  164  git list
+  165  echo "teste" >>index.html
+  166  git add .
+  167  git status
+  168  git push
+  169  git merge
+  170  git log
+  171  git checkout testes2
+  172  git checkout testes
+  173  git checkout teste2
+  174  git reset
+  175  git stash
+  176  git status
+  177  git add Ola_Mundo/
+  178  git status
+  179  git commit -m "Branch teste2"
+  180  git push
+  181  git push --set--upstream origin teste2
+  182  git push --set--upstream origin
+  183  git merge
+  184  git push
+  185  git push --set--upstream origin teste2
+  186  git push all
+  187  git-reset
+  188  git reset
+  189  git status
+  190  git status
+  191  git log
+  192  git log -online
+  193  git checkout main
+  194  git status
+  195  git commit -am "Commit com flag -am"
+  196  git status
+  197  git push
+  198  touch.exe ua
+  199  echo oi >> touch uau.txt
+  200  echo oi >> touch uau.txt
+  201  echo oi >> txt.txt
+  202  echo oi >> txt.txt
+  203  git status
+  204  git commit -am "teste"
+  205  git log 
+  206  git log -online
+  207  git log -oneline
+  208  git log -oneline
+  209  git log
+  210  git log -
+  211  git help
+  212  gti branch all
+  213  gti branch 
+  214  gti branch all
+  215  gti branch
+  216  git branch all
+  217  git branch
+  218  git branch rm all
+  219  git branch
+  220  git rm all
+  221  git branch help
+  222  git help branch
+  223  git branch -d all
+  224  git branch 
+  225  git branch -d teste2
+  226  git branch -D teste2
+  227  git branch -d help rm
+  228  git branch
+  229  git -oneline
+  230  gti log oneline
+  231  git log -oneline
+  232  git log --oneline
+  233  history 
+  234  [200~1  git --version
+  235     22  git push -u origin master
+  236     40  echo "admin:1234" > credenciais.json
+  237     61  git push
+  238     80  git commit -m "criado arquivo .txt para testa o .gitignore"
+  239     95  git status
+  240    111  git push
+  241    136  git send-email --to heitor.sousacruz@gmail.com --subject "Assunto do e-mail" novo.html
+  242    157  git checkout teste
+  243    181  git push --set--upstream origin teste2
+  244    202  echo oi >> txt.txt
+  245    227  git branch -d help rm
+  246  gitk
+  247  git status
+  248  git add
+  249  git status
+  250  git add .
+  251  gti push
+  252  git push
+  253  git status
+  254  git push
+  255  git ls
+  256  git list
+  257  git remote -v
+  258  git push origin teste
+  259  git log
+  260  git show a43c76
+  261  rm -rf site-de-vendas
+  262  cd..
+  263  cd ..
+  264  rm -rf site-de-vendas
+  265  git rm site_de_vendas/
+  266  git rm -f site_de_vendas/
+  267  git clone https://github.com/HeitorSC/site_de_vendas.git
+  268  history
+  269  history >> comandos_git_bash.txt
+  270  git status
+  271  cd site_de_vendas/
+  272  git status
+  273  git status
+  274  history >> comandos_git_bash.txt
