@@ -1,0 +1,71 @@
+12250cb HEAD@{0}: reset: moving to HEAD
+12250cb HEAD@{1}: rebase (finish): returning to refs/heads/main
+12250cb HEAD@{2}: rebase (reword): aula 3 v2
+b878163 HEAD@{3}: rebase (reword): aula 3
+cd0be2d HEAD@{4}: rebase (start): checkout cd0be2d
+dd5399b HEAD@{5}: commit: aula 3
+37a249a HEAD@{6}: commit: add aula4
+cd0be2d HEAD@{7}: reset: moving to HEAD
+cd0be2d HEAD@{8}: pull: Merge made by the 'ort' strategy.
+a5208b8 HEAD@{9}: merge NovaBranch: Fast-forward
+2a3fb40 HEAD@{10}: checkout: moving from NovaBranch to main
+a5208b8 HEAD@{11}: commit: Commit com arquivo após tag da versao 1.0.0
+2a3fb40 HEAD@{12}: checkout: moving from main to NovaBranch
+2a3fb40 HEAD@{13}: rebase (finish): returning to refs/heads/main
+2a3fb40 HEAD@{14}: rebase (reword): Modificando a mensagem 2 - novamente pelo Git Hub
+d29a841 HEAD@{15}: rebase (reword): novamente pelo Git Hub
+8bfb830 HEAD@{16}: rebase (reword): modificando a mensagem 1 - Modificado pelo GitHub
+b14a05e HEAD@{17}: rebase: fast-forward
+40b3b66 HEAD@{18}: rebase (start): checkout 40b3b66
+f79b920 HEAD@{19}: rebase (finish): returning to refs/heads/main
+f79b920 HEAD@{20}: rebase (start): checkout refs/remotes/origin/main
+a1b3421 HEAD@{21}: commit (amend): novamente pelo GitHub
+f79b920 HEAD@{22}: pull: Fast-forward
+b14a05e HEAD@{23}: pull: Fast-forward
+40b3b66 HEAD@{24}: checkout: moving from feature/modificardeletar2 to main
+b246bf0 HEAD@{25}: checkout: moving from main to feature/modificardeletar2
+40b3b66 HEAD@{26}: checkout: moving from feature/modificardeletar2 to main
+b246bf0 HEAD@{27}: checkout: moving from main to feature/modificardeletar2
+40b3b66 HEAD@{28}: commit (merge): resolvido o conflito
+083af57 HEAD@{29}: commit: commit no main
+e24588c HEAD@{30}: checkout: moving from feature/modificardeletar2 to main
+b246bf0 HEAD@{31}: commit: modificado na branch
+e24588c HEAD@{32}: checkout: moving from main to feature/modificardeletar2
+e24588c HEAD@{33}: checkout: moving from feature/modificardeletar2 to main
+e24588c HEAD@{34}: checkout: moving from main to feature/modificardeletar2
+e24588c HEAD@{35}: checkout: moving from teste to main
+a3992d0 HEAD@{36}: checkout: moving from main to teste
+e24588c HEAD@{37}: commit: commit
+42f9023 HEAD@{38}: commit: add deletar2
+b2a8986 HEAD@{39}: revert: Revert "add o deletar.txt"
+1d6463d HEAD@{40}: reset: moving to 1d646
+fb1f7dc HEAD@{41}: merge NewbranchComODeletar2: Merge made by the 'ort' strategy.
+1d6463d HEAD@{42}: checkout: moving from bc88b0966d07ffc3af46d0e96e786946872fdf9d to main
+bc88b09 HEAD@{43}: commit: add o deletar 2
+2365847 HEAD@{44}: checkout: moving from main to 2365
+1d6463d HEAD@{45}: checkout: moving from 23658473b91c17ee6a39cbb694b4aeb672608852 to main
+2365847 HEAD@{46}: checkout: moving from main to 2365
+1d6463d HEAD@{47}: checkout: moving from 23658473b91c17ee6a39cbb694b4aeb672608852 to main
+2365847 HEAD@{48}: checkout: moving from main to 2365
+1d6463d HEAD@{49}: checkout: moving from 23658473b91c17ee6a39cbb694b4aeb672608852 to main
+2365847 HEAD@{50}: checkout: moving from main to 2365
+1d6463d HEAD@{51}: checkout: moving from 23658473b91c17ee6a39cbb694b4aeb672608852 to main
+2365847 HEAD@{52}: checkout: moving from b62b58141aa5b24616741d4288d8e25c50583643 to 2365847
+b62b581 HEAD@{53}: commit: add deletar
+2365847 HEAD@{54}: checkout: moving from 1d6463db7d8a53a44f417d3d4e8a6bc815fa4804 to 2365847
+1d6463d HEAD@{55}: checkout: moving from main to 1d6463d
+1d6463d HEAD@{56}: commit: add o deletar.txt
+2365847 HEAD@{57}: reset: moving to 2365847
+939aaa4 HEAD@{58}: reset: moving to 939aaa4
+9a10098 HEAD@{59}: revert: Revert "teste para revert commit"
+5596499 HEAD@{60}: commit: teste para revert commit
+939aaa4 HEAD@{61}: commit: teste para commit hard
+2365847 HEAD@{62}: reset: moving to HEAD
+2365847 HEAD@{63}: reset: moving to HEAD
+2365847 HEAD@{64}: reset: moving to HEAD
+2365847 HEAD@{65}: reset: moving to HEAD
+2365847 HEAD@{66}: commit: Alterado o add.txt
+a1e4e54 HEAD@{67}: commit: adiicionando os arquivos txt
+fd73ec4 HEAD@{68}: reset: moving to HEAD
+fd73ec4 HEAD@{69}: commit: testando a flag -am
+faa930b HEAD@{70}: clone: from https://github.com/HeitorSC/site_de_vendas.git
