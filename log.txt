@@ -1,0 +1,38 @@
+dd5399b aula 3
+37a249a add aula4
+cd0be2d Merge branch 'main' of https://github.com/HeitorSC/site_de_vendas
+a5208b8 Commit com arquivo após tag da versao 1.0.0
+2a3fb40 Modificando a mensagem 2 - novamente pelo Git Hub
+8bfb830 modificando a mensagem 1 - Modificado pelo GitHub
+f79b920 novamente pelo Git Hub
+b14a05e Modificado pelo GitHub
+40b3b66 resolvido o conflito
+083af57 commit no main
+b246bf0 modificado na branch
+e24588c commit
+42f9023 add deletar2
+b2a8986 Revert "add o deletar.txt"
+1d6463d add o deletar.txt
+2365847 Alterado o add.txt
+a1e4e54 adiicionando os arquivos txt
+fd73ec4 testando a flag -am
+faa930b Commit com flag -am
+a543f39 Merge branch 'main' of github.com:HeitorSC/Site_de_vendas
+406da08 retirada dos arquivos .txt
+a43c762 retirada dos .txt
+65a885b usando o git add -f para força a adição de um arquivo ignorado
+1f2f4af removido .xlsx para posterior ignore
+b4eaf0a alterado html para testar gitignore
+bea5a66 add .txt ao gitignore
+b66f466 Corrigindo o nome do arquivo gitignore
+fd4bd4b ignorando .xlsx
+9c67be6 ignorando .xlsx
+bc5cc24 Adicionado o .gitignore para ignorar html
+83f6289 Adicionado o .gitignore para ignorar html
+b373f9f Adicionado o .gitignore para ignorar html
+a681e53 Adicionando novos arquivos
+ccd10b6 Squashed commit of the following:
+7677edb add html
+7a7eec9 Teste
+29ab5f3 Subindo para o reposi'torio para o Git
+###############################
